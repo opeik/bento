@@ -1,0 +1,10 @@
+[package]
+name = "bento"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+color-eyre = "0.5.11"
+csv = "1.1.6"
+rand = "0.8.4"
+serde = { version = "1.0.127", features = ["derive"] }
