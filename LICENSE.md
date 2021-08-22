@@ -1,4 +1,4 @@
-Copyright © 2019 [Sandro Stikić](mailto:sandro@stikic.me)
+Copyright © 2021 [Sandro Stikić](mailto:sandro@stikic.me)
 
 Permission to use, copy, modify, and/or distribute this software for
 any purpose with or without fee is hereby granted, provided that the
